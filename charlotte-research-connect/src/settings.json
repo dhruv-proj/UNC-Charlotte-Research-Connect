@@ -1,0 +1,5 @@
+{
+    "DevEnv": false,
+    "APIBase": "https://a.vibot.tech:1313",
+    "NoSSL": "http://a.vibot.tech:1314"
+}
